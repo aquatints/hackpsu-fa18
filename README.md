@@ -1,7 +1,7 @@
 # sonc
 > a music recommendation app.
 
-![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)
+![License](https://img.shields.io/badge/license-GPL--3.0-green.svg?style=for-the-badge)
 
 sonc (*songs one needs to consume*) is a simple song recommendation application that uses Spotify's API.  
 
